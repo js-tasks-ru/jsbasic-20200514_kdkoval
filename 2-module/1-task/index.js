@@ -21,4 +21,6 @@ function sumSalary(dataEmployees) {
   return result;
 }
 
+sumSalary(salaries);
+
 
